@@ -1,0 +1,27 @@
+body,
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: #000066;
+    background-image: linear-gradient(50deg, #4e73df 10%, #000066 100%);
+    background-size: cover;
+}
+
+#login .container #login-row #login-column #login-box {
+    margin-top: 70px;
+    max-width: 800px;
+    height: 300px;
+    box-shadow: 2px 2px 2px 2px #343a46;
+    border-radius: 5px;
+}
+
+.modal-h {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 1rem 1rem;
+    border-bottom: 1px solid #e3e6f0;
+    border-top-left-radius: .3rem;
+    border-top-right-radius: .3rem;
+}

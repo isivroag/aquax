@@ -1,0 +1,14 @@
+.modal-h {
+    color: white;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 1rem 1rem;
+    border-bottom: 1px solid #e3e6f0;
+    border-top-left-radius: .3rem;
+    border-top-right-radius: .3rem;
+}
+
+.clock {
+    font-size: 24px;
+}
